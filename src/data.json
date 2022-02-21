@@ -1,0 +1,71 @@
+{
+    "sports": [
+        {
+          "id": "100",
+          "name": "cricket",
+          "poster":
+            "https://m.media-amazon.com/images/I/71EWbUek4TL._SX466_.jpg",
+          "rating": 8.8,
+          "summary":
+            "Depending on the type of cricket match being played, a match can last anywhere from three hours to five days. To win a match, a team must score more runs than their opponents. In test cricket, a team must also take 20 wickets when fielding to win the match. To score runs, a team must be batting.",
+          "trailer": "https://www.youtube.com/embed/wHEIT32ZEVs"
+        },
+        {
+          "id": "101",
+          "name": "football",
+          "poster":
+            "https://media.gettyimages.com/photos/indias-players-celebrate-after-scoring-a-goal-during-fifa-world-cup-picture-id1166068229?s=2048x2048",
+          "rating": 7,
+          "summary":
+            "A match consists of two 45 minutes halves with a 15 minute rest period in between. Each team can have a minimum off 11 players (including 1 goalkeeper who is the only player allowed to handle the ball within the 18 yard box) and a minimum of 7 players are needed to constitute a match.",
+          "trailer": "https://www.youtube.com/embed/OSGneV1pjXU"
+        },
+        {
+          "id": "102",
+          "name": "hockey",
+          "poster":
+            "https://static.toiimg.com/photo/85062918.cms",
+          "rating": 8.1,
+          "summary":
+            "A field hockey match consists of two halves, usually 35 minutes each, and begins with a pass back (a non-defended pass from one teammate to another at mid-field). There are 11 players to a side, one of whom is a goalkeeper. The object of the game is to score more goals than the opposition.",
+          "trailer": "https://www.youtube.com/embed/3oIWk5qhlC0"
+        },
+        {
+          "id": "103",
+          "name": "badminton",
+          "poster":
+            "https://cdn.lifestyleasia.com/wp-content/uploads/sites/7/2021/03/25155906/saina1.jpg",
+          "summary":
+            "The first side to 21 points wins a game. A point is scored on every serve and awarded to whichever side wins the rally. The winning side gets the next serve. If the score is 20-20, a side must win by two clear points to win the game.",
+          "rating": 8.8,
+          "trailer": "https://www.youtube.com/embed/UyLIi-TbcFc"
+        },
+        {
+          "id": "104",
+          "name": "tennis",
+          "rating": 8,
+          "summary":
+            "Tennis is a game played on a rectangular-shaped court, which can be one of many surfaces. It is either played with two players (singles match), or four players (doubles match). Players stand on opposite sides of the net and use a stringed racquet to hit the ball back and forth to each other.",
+          "poster":"https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2018/07/athletes-1866487_1280.jpg",
+          "trailer": "https://www.youtube.com/embed/1P_Das6OjAk"
+        },
+        {
+          "id": "105",
+          "name": "chess",
+          "poster": "https://5.imimg.com/data5/GE/PQ/MY-7330163/wooden-chess-set-with-medieval-design-pieces-mughal-army-1-500x500.jpg",
+          "rating": 8.6,
+          "summary":
+            "The tournament will be conducted in Swiss-style in the initial rounds. In the initial rounds players will be paired randomly, so in case you unfortunately face the best player of the tournament in the first round and lose the first game, you still get a chance to recover in the subsequent rounds and reach the semis/final.",
+          "trailer": "https://www.youtube.com/embed/-wRdgOllrzM"
+        },
+        {
+          "id": "106",
+          "name": "motor racing",
+          "poster": "https://i.gadgets360cdn.com/large/best_android_games_main_1589521185888.jpg?downsize=950:*",
+          "rating": 8,
+          "summary":
+            "The car must only have four wheels mounted externally of the body work with only the front 2 steered and only the back 2 driven. There are minimum distances allowed between the wheels and the rear and front body work.",
+          "trailer": "https://www.youtube.com/embed/W1cfLjS5a0Y"
+        }
+        ]
+}
