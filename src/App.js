@@ -162,7 +162,7 @@ return(
          <Button color="inherit" onClick = {() => history.push("/color-game")}>Color Game</Button>
          <Button color="inherit" onClick = {() => history.push("/tic-tac-toe")}>Tic Tac Toe</Button>
          <Button color="inherit" onClick = {() => history.push("/movies/add")}>
-           Add Sports</Button>
+           Add Movie</Button>
            <Button 
            color="inherit"
            style = {{ marginLeft: "auto" }}
